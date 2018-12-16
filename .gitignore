@@ -2,3 +2,12 @@ tradfri/*.pyc
 bin/coap-client
 bin/.libs/*
 tradfri.cfg
+gen-cred.sh
+gang_av.sh
+gang_paa.sh
+soverom_av.sh
+soverom_paa.sh
+status.sh
+stue_av.sh
+stue_paa.sh
+.gitignore
